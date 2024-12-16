@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poputi_landing/static/css/main.e22bda34.css",
+    "main.js": "/poputi_landing/static/js/main.3e3179fa.js",
+    "static/js/453.2fedf8ce.chunk.js": "/poputi_landing/static/js/453.2fedf8ce.chunk.js",
+    "static/media/Мокап.png": "/poputi_landing/static/media/Мокап.5d0a2205782541853f1e.png",
+    "static/media/safety.svg": "/poputi_landing/static/media/safety.f3a3c28f5c7c92c616e81628a4c413f2.svg",
+    "static/media/pp.svg": "/poputi_landing/static/media/pp.7f8815eaea11cdde3406edfabf830a30.svg",
+    "static/media/fast.svg": "/poputi_landing/static/media/fast.236ca44ee10e651331d2fd3e1c87a318.svg",
+    "static/media/Poputi.svg": "/poputi_landing/static/media/Poputi.fd54738294dbc5185142a10068556b01.svg",
+    "static/media/Logo.svg": "/poputi_landing/static/media/Logo.741164eb6a338c2e58e998ba15f1895e.svg",
+    "static/media/map.svg": "/poputi_landing/static/media/map.769b52de4a44d1b5ba40deff61758a8a.svg",
+    "index.html": "/poputi_landing/index.html",
+    "main.e22bda34.css.map": "/poputi_landing/static/css/main.e22bda34.css.map",
+    "main.3e3179fa.js.map": "/poputi_landing/static/js/main.3e3179fa.js.map",
+    "453.2fedf8ce.chunk.js.map": "/poputi_landing/static/js/453.2fedf8ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22bda34.css",
+    "static/js/main.3e3179fa.js"
+  ]
+}
